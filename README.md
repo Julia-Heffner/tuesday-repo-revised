@@ -4,4 +4,4 @@ Write your name below the line:
 --------------------------------------------------------
 
 Don Hansen
-Julia C Heffner
+Julia Heffner
